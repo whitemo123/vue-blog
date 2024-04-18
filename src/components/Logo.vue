@@ -18,12 +18,12 @@
 </template>
 
 <style scoped>
-@media (prefers-reduced-motion) {
+/* @media (prefers-reduced-motion) {
   .path1 {
     animation: none !important;
     stroke-dasharray: unset !important;
   }
-}
+} */
 @media print {
   .path1 {
     animation: none !important;
